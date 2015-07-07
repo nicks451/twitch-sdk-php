@@ -1,0 +1,20 @@
+{
+    "name": "nick/twitch-sdk",
+    "description": "A PHP SDK For Twitch",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "depotwarehouse/oauth2-twitch": "~1.2"
+    },
+    "autoload": {
+      "psr-4": {
+        "Nicks451\\TwitchSDK\\": "src/"
+      }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nick Snyder",
+            "email": "nick@nicksnyder.io"
+        }
+    ]
+}
