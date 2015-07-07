@@ -1,5 +1,5 @@
 {
-    "name": "nicks451/twitch-sdk",
+    "name": "nicks451/twitch-sdk-php",
     "description": "A PHP SDK For Twitch",
     "version": "0.0.1",
     "require": {
